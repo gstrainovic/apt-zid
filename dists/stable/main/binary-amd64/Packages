@@ -1,0 +1,63 @@
+Package: zid
+Architecture: amd64
+Version: 0.1.3-1
+Priority: optional
+Section: editors
+Maintainer: gstrainovic <g.strainovic@gmail.com>
+Installed-Size: 181420
+Depends: libc6 (>= 2.35), libfreetype6, libharfbuzz0b, libpng16-16 | libpng16-16t64, zlib1g, libglib2.0-0 | libglib2.0-0t64, libvulkan1
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/z/zid/zid_0.1.3-1_amd64.deb
+Size: 39217782
+MD5sum: c4f62e04e93422910e0f8f20a80e5a6a
+SHA1: e84b7ccfd9b52c74bcdd647fad301b267545fc5d
+SHA256: 61baaf64cc896b6d482f47c42eaeb22cfc0357076e3d6c75637a94a39670c909
+SHA512: d36b943c5a10aadf10038129c1011f799694cc0f4065f539487849ee8a3ce51fabbc098e3bf38b394e8bc4c3429d5e4ce0d1280aa9373b9be761373e14e940a4
+Homepage: https://github.com/gstrainovic/zid
+Description: GPU-beschleunigter Editor mit Markdown-Vorschau, PDF-Anzeige und lokaler KI
+ zid ist ein in Zig geschriebener Editor. Er rendert über Vulkan, läuft unter
+ Wayland und X11 und bringt Markdown-Vorschau, Marp-Folien, PDF-Anzeige, ein
+ eingebettetes Terminal, Git-Ansichten und Suche im Projekt mit.
+
+Package: zid
+Architecture: amd64
+Version: 0.1.4-1
+Priority: optional
+Section: editors
+Maintainer: gstrainovic <g.strainovic@gmail.com>
+Installed-Size: 181427
+Depends: libc6 (>= 2.35), libfreetype6, libharfbuzz0b, libpng16-16 | libpng16-16t64, zlib1g, libglib2.0-0 | libglib2.0-0t64, libvulkan1
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/z/zid/zid_0.1.4-1_amd64.deb
+Size: 39220408
+MD5sum: 5d78cadc5203f8ce758aad9291d61f81
+SHA1: 3c0fb4ab433b7f3a66eec9cf3359570dbb178cd5
+SHA256: 5b273339b30c7d8a1d24e213071b007a76aa54e8f746285681d88b7c8de801b5
+SHA512: 69afd9fd768ab7f64c32622453d681154bb2f890cd0db5af7f23138fddde2c223900081d0b13c32c5123d0730b1f190d94184e59013d27c6ae8bfbd214bcfa5b
+Homepage: https://github.com/gstrainovic/zid
+Description: GPU-beschleunigter Editor mit Markdown-Vorschau, PDF-Anzeige und lokaler KI
+ zid ist ein in Zig geschriebener Editor. Er rendert über Vulkan, läuft unter
+ Wayland und X11 und bringt Markdown-Vorschau, Marp-Folien, PDF-Anzeige, ein
+ eingebettetes Terminal, Git-Ansichten und Suche im Projekt mit.
+
+Package: zid
+Architecture: amd64
+Version: 0.1.7-1
+Priority: optional
+Section: editors
+Maintainer: gstrainovic <g.strainovic@gmail.com>
+Installed-Size: 181474
+Depends: libc6 (>= 2.35), libfreetype6, libharfbuzz0b, libpng16-16 | libpng16-16t64, zlib1g, libglib2.0-0 | libglib2.0-0t64, libvulkan1
+Recommends: mesa-vulkan-drivers
+Filename: pool/main/z/zid/zid_0.1.7-1_amd64.deb
+Size: 39240546
+MD5sum: 234174f1e2beae2ea73ceaf8e3b5b726
+SHA1: 490b2c7bd820ce56e5eccff89f683aed36be885c
+SHA256: 16115dcb55c132078b6ea781357bc94f17adb649f0e691af8a48e48f47b5b1cb
+SHA512: c302dabfb99b454e25be6e8c46eb2404925a8cc27956b446ace05f2bb4ee991ea37d85ebb66335140dced41b568bf534a5fc164b3f02c29c3b00fdf7c659e734
+Homepage: https://github.com/gstrainovic/zid
+Description: GPU-beschleunigter Editor mit Markdown-Vorschau, PDF-Anzeige und lokaler KI
+ zid ist ein in Zig geschriebener Editor. Er rendert über Vulkan, läuft unter
+ Wayland und X11 und bringt Markdown-Vorschau, Marp-Folien, PDF-Anzeige, ein
+ eingebettetes Terminal, Git-Ansichten und Suche im Projekt mit.
+

@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 24 Sep 2026 07:57:42 +0000
+Description: zid editor
+Label: zid
+Origin: zid
+Suite: stable
+MD5Sum:
+ bc8c785d002ab5d154d4c34a84194696             3132 main/binary-amd64/Packages
+ 043ddd8b1037486e574df012e3a58102             1117 main/binary-amd64/Packages.gz
+SHA1:
+ ef57aca1ca09c0151dc76ca47be99824a39db4a2             3132 main/binary-amd64/Packages
+ 982486a7e242499d1ab8c7a3a3f4e1f2c3f2c528             1117 main/binary-amd64/Packages.gz
+SHA256:
+ 76b1968352ac0f228b1bf389d950529e3fe20556751a411c79129c2e0dbed0f6             3132 main/binary-amd64/Packages
+ fd82938ae51e807e3548a2400c4588245af8b481c10bce672e260bb7f6074000             1117 main/binary-amd64/Packages.gz
+SHA512:
+ 3ff89bc6eea01c86df67ae9d82fd24e7f97dc511b8d10d6e601cac914444d0c70b5b29cbadf354dab8e805918be99cafed3b3972242769bf3aeaeb58e70e84ae             3132 main/binary-amd64/Packages
+ 6b431e965b98474ed9d2d868da5687e77f9c3901b705f71ce3133af76e5641c9fa522c2bb7f07da8e096808cb87702cd6876c45920def49b184c906fe60d20d6             1117 main/binary-amd64/Packages.gz

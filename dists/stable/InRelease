@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 24 Sep 2026 07:57:42 +0000
+Description: zid editor
+Label: zid
+Origin: zid
+Suite: stable
+MD5Sum:
+ bc8c785d002ab5d154d4c34a84194696             3132 main/binary-amd64/Packages
+ 043ddd8b1037486e574df012e3a58102             1117 main/binary-amd64/Packages.gz
+SHA1:
+ ef57aca1ca09c0151dc76ca47be99824a39db4a2             3132 main/binary-amd64/Packages
+ 982486a7e242499d1ab8c7a3a3f4e1f2c3f2c528             1117 main/binary-amd64/Packages.gz
+SHA256:
+ 76b1968352ac0f228b1bf389d950529e3fe20556751a411c79129c2e0dbed0f6             3132 main/binary-amd64/Packages
+ fd82938ae51e807e3548a2400c4588245af8b481c10bce672e260bb7f6074000             1117 main/binary-amd64/Packages.gz
+SHA512:
+ 3ff89bc6eea01c86df67ae9d82fd24e7f97dc511b8d10d6e601cac914444d0c70b5b29cbadf354dab8e805918be99cafed3b3972242769bf3aeaeb58e70e84ae             3132 main/binary-amd64/Packages
+ 6b431e965b98474ed9d2d868da5687e77f9c3901b705f71ce3133af76e5641c9fa522c2bb7f07da8e096808cb87702cd6876c45920def49b184c906fe60d20d6             1117 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE5elvpT61siJtQ4+znGSyoqbfpHMFAmq01/YACgkQnGSyoqbf
+pHNjZw//avsofmvOvj2T7Gu9+yXdoKCmQbXJpVNKCldRsNDuZJ58Qvr7AvVvLhH9
+91Ud+oBvMOV7zAD4udP4OgirWO++BTycaCbNCx3P2l6MzVj+sdU1x+M9y6rgjSd0
+4oPOmT7G8O2gnk/4ZDIRGtJ7dWFnSH1Xe37zreSyNsaqw6rvS0bjK9NDWuBKBq4+
+0k21OpfMySMEns2BqDvTBq4zZP53XSbQb70uvilllpPOs9yLuiv6kmRxlL1iq93I
+w7+i6DdGNFw2UkQOOpne+G1VrKy3hAL7O8GFZ7umP7C/kg83GXuebQ3bivY6D7UQ
+hzQn4u4WFf5JKH7s5nYRWLio8SHPizxKsRB6WyUdaohG/HnC6TgmMsdUpeee1yNr
+extRwqZ1qy8OElNrIaYvxUKkhbj1lY+niDQ+ALdQTY7/vSgEVn1Q+gJQszt3zCZ4
+/KTm4lGIBbvAZNgcVY4iGRKj5alrrPg0b0pIlQkk4xKnLeDQ+wpxXQziRsU49LBz
+77uZti/YCVkaGS0DzWXoN8T5Jr/WUbl8uRAQPout5DKItvMTcO287PHGYBz5ScEq
+bZbgiybflajrbVKyenRcMQtKyu4uXsTMW+PRqv5wgLoPrL9AoKR1emOSelHGNDv1
+kJLKXvipnjJWiLiztydfgSE06AnjjBKhyxS4/9CjgGKTJvRNjR4=
+=Z8Tr
+-----END PGP SIGNATURE-----
